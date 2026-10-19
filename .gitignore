@@ -1,0 +1,13 @@
+input/
+output/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.fseq
+*.wav
+*.mp3
+*.m4a
+*.mov
+*.MOV
